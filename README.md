@@ -25,7 +25,7 @@ Currently expanding my knowledge in full stack development, data engineering, an
 
 ## Skills
 
-### Currently Working with
+### What I'm working with
 
 #### Languages and Web Frameworks
 
@@ -59,7 +59,7 @@ Currently expanding my knowledge in full stack development, data engineering, an
 <img src="assets/images/logos/postman_logo.png" height="50" style="padding:8px">
 ]: #
 
-### Currently Learning
+### What I'm learning
 
 #### Languages and Web Frameworks
 
@@ -72,6 +72,8 @@ Currently expanding my knowledge in full stack development, data engineering, an
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -101,3 +103,8 @@ Currently expanding my knowledge in full stack development, data engineering, an
 <img src="assets/images/logos/gcp_logo.png" height="50" style="padding:8px">
 <img src="assets/images/icons/docker.png" height="50" style="padding:8px">
 ]: #
+
+### Other Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![SolidWorks](https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
